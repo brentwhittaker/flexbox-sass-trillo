@@ -15,8 +15,8 @@
     "build": "parcel build src/index.html",
     "start": "npm-run-all build-css build live-serv"
   },
-  "author": "Jonas",
-  "license": "ISC",
+  "author": "majinbruu",
+  "license": "MIT",
   "devDependencies": {
     "autoprefixer": "^7.1.4",
     "concat": "^1.0.3",
