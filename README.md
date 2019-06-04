@@ -1,3 +1,11 @@
 # flexbox-sass-trillo
 
-## WIP (to be updated)
+## Concepts
+- flexbox
+- nested flexbox
+- keyframes animation
+- sprite svg
+- css custom properties
+- sass variables
+- media queries
+- @support queries
